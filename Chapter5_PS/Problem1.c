@@ -9,6 +9,6 @@ float average(int a, int b, int c){
 
 int main(){
     int a = 3, b=6, c=5;
-    printf("The average of a, b and c is %f", average(a, b, c));
+    printf("The average  and c is %f", average(a, b, c));
     return 0;
 }

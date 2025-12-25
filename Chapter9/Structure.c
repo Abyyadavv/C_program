@@ -17,7 +17,7 @@ int main(void) {
     printEmployee(&emp);                       // pass by pointer
     // modification
     emp.age = 31;
-    strcpy(emp.name, "Amit Kumar");
+    strcpy(emp.name, "A Kumar");
     printEmployee(&emp);
 
     return 0;
